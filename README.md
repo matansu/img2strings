@@ -17,6 +17,6 @@ Closed loop control using stepper motors. Designed from scratch including 3d pri
 <img src="projectImages/DavidMachine.jpeg" height="400"> <img src="projectImages/rockyMachine.jpeg" height="400">
 
 ## Frontend app
-Just a simple web app to be able to run the optimization conviently from any phone or computer.
+Just a simple web app for running the optimization conviently from any phone or computer.
 
 <img src="projectImages/app1.jpeg" height="569"> <img src="projectImages/app2.jpeg" height="569">
