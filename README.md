@@ -11,7 +11,7 @@ An art project, weaving an image from a continous string. The idea is not mine, 
 Arduino based machine that weaves the string to create the image in the real world.
 Closed loop control using stepper motors. Design code and assembly from scratch.
 
-<img src="projectImages/DavidMachine.jpeg" height="569"> <img src="projectImages/rockyMachine.jpeg" height="569">
+<img src="projectImages/DavidMachine.jpeg" height="400"> <img src="projectImages/rockyMachine.jpeg" height="400">
 
 ## Frontend app
 Just a simple web app to be able to run the optimization conviently from any phone or computer.
