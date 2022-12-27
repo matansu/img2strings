@@ -1,5 +1,5 @@
 # img2strings
-An art project, weaving an image from a continous string. The idea is not mine, but in my opinion my imlementation is currently the state of the art in terms of appearance quality and running time. Done together with a friend.
+An art project, weaving an image from a continous string. The idea is not mine, but in my opinion my imlementation is currently the state of the art in terms of appearance quality and running time. 
 
 ## Pytorch optimization
 - Pytorch code calculates the optimal strings to recreate the image
@@ -13,7 +13,7 @@ An art project, weaving an image from a continous string. The idea is not mine, 
 
 ## Machine
 Arduino based machine that weaves the string to create the image in the real world.
-Closed loop control using stepper motors. Design code and assembly from scratch.
+Closed loop control using stepper motors. Designed from scratch including 3d printed parts, code and electronics.
 
 <img src="projectImages/DavidMachine.jpeg" height="400"> <img src="projectImages/rockyMachine.jpeg" height="400">
 
