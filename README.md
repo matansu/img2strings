@@ -7,9 +7,7 @@ An art project, weaving an image from a continous string. The original idea is n
 - Implemented custom forward and backward layers
 - Implemented my own Optimizer
 
-
 <img src="projectImages/DavidSimulation.jpeg" height="400"> <img src="projectImages/DavidDone.jpeg" height="400">
-<img src="projectImages/rockySimulation.jpeg" height="400"> <img src="projectImages/rockyDone.jpeg" height="400">
 
 ## Machine
 Arduino based machine that weaves the string to create the image in the real world.
@@ -21,3 +19,9 @@ Closed loop control using stepper motors. Designed from scratch including 3d pri
 Just a simple web app to be able to run the optimization conviently from any phone or computer.
 
 <img src="projectImages/app1.jpeg" height="569"> <img src="projectImages/app2.jpeg" height="569">
+
+
+## More examples
+
+<img src="projectImages/JerrySimulation.jpeg" height="400"> <img src="projectImages/JerryDone.jpeg" height="400">
+<img src="projectImages/rockySimulation.jpeg" height="400"> <img src="projectImages/rockyDone.jpeg" height="400">
