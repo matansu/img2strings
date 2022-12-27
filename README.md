@@ -8,8 +8,8 @@ An art project, weaving an image from a continous string. The idea is not mine, 
 - Implemented my own Optimizer
 
 | Simulation | Real world |
-| <img src="projectImages/DavidSimulation.jpeg" height="400"> | <img src="projectImages/DavidDone.jpeg" height="400"> |
-| <img src="projectImages/rockySimulation.jpeg" height="400"> | <img src="projectImages/rockyDone.jpeg" height="400"> |
+<img src="projectImages/DavidSimulation.jpeg" height="400"> <img src="projectImages/DavidDone.jpeg" height="400">
+<img src="projectImages/rockySimulation.jpeg" height="400"> <img src="projectImages/rockyDone.jpeg" height="400">
 
 ## Machine
 Arduino based machine that weaves the string to create the image in the real world.
