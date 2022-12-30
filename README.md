@@ -1,5 +1,5 @@
 # img2strings
-An art project, weaving an image from a continous string. The original idea is not mine, but my imlementation is currently the state of the art in terms of appearance quality and running time (at least in my opinion =]). 
+An art project, weaving an image from a continuous string. The original idea is not mine, but I consider my imlementation to be the state of the art in terms of appearance quality and running time. 
 
 ## Pytorch optimization
 - Pytorch code calculates the optimal strings to recreate the image
